@@ -13,13 +13,13 @@ p {
 }
 
 body {
-    background-color:rgb(235, 235, 235)
+    background-color:rgb(235, 235, 235);
     margin-left: 0;
     margin-right: 0;
 }
 
 a {
-    color:blue
+    color:blue;
     margin-left: 0;
     margin-right: 0;
 }
