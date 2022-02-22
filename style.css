@@ -1,25 +1,16 @@
 h1 {
     color:green;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 0;
-    margin-right: 0;
-    
 }
 
 p {
-    font-family: sans-serif;
-    margin-left: 0;
-    margin-right: 0;
+    font-family: sans-serif;;
 }
 
 body {
     background-color:rgb(235, 235, 235);
-    margin-left: 0;
-    margin-right: 0;
 }
 
 a {
     color:blue;
-    margin-left: 0;
-    margin-right: 0;
 }
